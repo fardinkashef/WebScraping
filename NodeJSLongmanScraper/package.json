@@ -1,0 +1,17 @@
+{
+  "name": "node.js-longman-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "playwright": "^1.46.1"
+  },
+  "type": "module"
+}
