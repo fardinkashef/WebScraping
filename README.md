@@ -1,10 +1,10 @@
 # Longman Scraper
 
-This repo includes a Next.js web application that scrapes Longman Dictionary website (www.ldoceonline.com) and generates an array of JSON objects, each detailing the dictionary information for a specific sense of the word
+This repo includes a Next.js web application that scrapes [Longman Dictionary](https://ldoceonline.com) website and generates an array of JSON objects, each detailing the dictionary information for a specific sense of the word
 
 ## 🎯 Goal
 
-The goal of this Next.js web application is to efficiently gather and organize dictionary data from the Longman Dictionary website (www.ldoceonline.com). By automating the process of looking up words and extracting their definitions, examples and etc, this tool eliminates the need for manual copy-pasting. Users can simply enter a word, and the application will generate an array of JSON objects, each containing detailed information for every sense of the word.
+The goal of this Next.js web application is to efficiently gather and organize dictionary data from the [Longman Dictionary](https://ldoceonline.com) website. By automating the process of looking up words and extracting their definitions, examples and etc, this tool eliminates the need for manual copy-pasting. Users can simply enter a word, and the application will generate an array of JSON objects, each containing detailed information for every sense of the word.
 
 ## 👀 Demo
 
